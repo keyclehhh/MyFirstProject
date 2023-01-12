@@ -1,0 +1,3 @@
+D:/code/3/Structure variable/cmake-build-debug/CMakeFiles/Structure_variable.dir
+D:/code/3/Structure variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/3/Structure variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
