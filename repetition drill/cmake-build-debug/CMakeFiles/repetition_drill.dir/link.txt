@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\repetition_drill.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\repetition_drill.dir/objects.a @CMakeFiles\repetition_drill.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\repetition_drill.dir/objects.a -Wl,--no-whole-archive -o repetition_drill.exe -Wl,--out-implib,librepetition_drill.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\repetition_drill.dir\linklibs.rsp
