@@ -11,7 +11,7 @@ void Chain_insert(BRR &A)
 {
     ARR *p;
     int i;
-    A=(BRR)malloc(sizeof (ARR ));
+    A=(BRR)malloc(sizeof (ARR ));//malloc(size())->  Never use (BRR) or (ARR*)
     A->link=NULL;
     scanf("%d",&i);
 
