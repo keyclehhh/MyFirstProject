@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//单链表头插法
+//单链表头插法和删除
 typedef int Elemnet;
 typedef struct ARR
 {
