@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(Multi_position_insertion_of_single_linked_list)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Multi_position_insertion_of_single_linked_list main.cpp)
