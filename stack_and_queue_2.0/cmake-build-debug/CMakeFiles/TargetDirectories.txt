@@ -1,3 +1,0 @@
-D:/code/3/stack_and_queue_2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/code/3/stack_and_queue_2.0/cmake-build-debug/CMakeFiles/Stack_and_queue.dir
-D:/code/3/stack_and_queue_2.0/cmake-build-debug/CMakeFiles/edit_cache.dir

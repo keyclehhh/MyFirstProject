@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/3/tree/main.cpp
+tree.h
+D:/code/3/tree/tree.h
+
+D:/code/3/tree/tree.h
+stdio.h
+-
+stdlib.h
+-
+
