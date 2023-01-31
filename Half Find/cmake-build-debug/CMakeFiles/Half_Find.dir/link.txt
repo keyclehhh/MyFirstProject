@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Half_Find.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Half_Find.dir/objects.a @CMakeFiles\Half_Find.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Half_Find.dir/objects.a -Wl,--no-whole-archive -o Half_Find.exe -Wl,--out-implib,libHalf_Find.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Half_Find.dir\linklibs.rsp
