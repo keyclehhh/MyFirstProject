@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Insert_Sort.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Insert_Sort.dir/objects.a @CMakeFiles\Insert_Sort.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Insert_Sort.dir/objects.a -Wl,--no-whole-archive -o Insert_Sort.exe -Wl,--out-implib,libInsert_Sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Insert_Sort.dir\linklibs.rsp

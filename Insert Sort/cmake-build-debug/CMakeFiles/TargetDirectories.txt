@@ -1,0 +1,3 @@
+D:/code/3/Insert Sort/cmake-build-debug/CMakeFiles/Insert_Sort.dir
+D:/code/3/Insert Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/3/Insert Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
