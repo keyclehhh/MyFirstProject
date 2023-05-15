@@ -46,8 +46,8 @@ void Heapbuild(ELement T[],int i,int length)
         if(T[son]>T[dad])
         {
             Swap(T[dad],T[son]);
-            dad=son;
-            son=(2*dad)+1;
+            dad=son;//检查交换后是否满足条件
+            son=(2*dad)+1;//检查下一层
         } else{
             break;
         }
